@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TimeLineBar  TimeLineBar renders correctly 1`] = `
+<View
+  style={
+    {
+      "backgroundColor": "#93b2fd",
+      "height": 1334,
+      "left": 52.50000000000001,
+      "position": "absolute",
+      "width": 7.5,
+    }
+  }
+/>
+`;

@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`app renders correctly 1`] = `
+<View
+  style={
+    {
+      "backgroundColor": "#202124",
+      "flex": 1,
+      "justifyContent": "space-between",
+    }
+  }
+>
+  <RNCSafeAreaProvider
+    onInsetsChange={[Function]}
+    style={
+      {
+        "flex": 1,
+      }
+    }
+  />
+</View>
+`;

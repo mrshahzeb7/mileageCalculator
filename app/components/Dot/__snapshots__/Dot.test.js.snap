@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Dot  Dot renders correctly 1`] = `
+<View
+  style={
+    [
+      {
+        "backgroundColor": "#93b2fd",
+        "borderRadius": 15.297966458904849,
+        "height": 30.595932917809698,
+        "marginLeft": 41.25,
+        "width": 30.595932917809698,
+      },
+      undefined,
+    ]
+  }
+/>
+`;

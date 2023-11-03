@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HomeListItem  HomeListItem renders correctly 1`] = `
+<View
+  style={
+    [
+      {
+        "backgroundColor": "#2e2f32",
+        "paddingHorizontal": 37.5,
+        "paddingVertical": 14.674000000000001,
+      },
+      false,
+      undefined,
+    ]
+  }
+>
+  <View
+    style={
+      {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "justifyContent": "space-between",
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "alignItems": "center",
+          "flexDirection": "row",
+        }
+      }
+    />
+    <Text
+      style={
+        {
+          "color": "#6a6f71",
+        }
+      }
+    />
+  </View>
+</View>
+`;

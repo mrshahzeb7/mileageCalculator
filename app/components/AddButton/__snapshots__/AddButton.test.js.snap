@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AddButton  AddButton renders correctly 1`] = `
+<View
+  style={
+    {
+      "alignItems": "center",
+      "backgroundColor": "#93b2fd",
+      "borderRadius": 50.02435032061885,
+      "bottom": 173.42000000000002,
+      "height": 100.0487006412377,
+      "justifyContent": "center",
+      "position": "absolute",
+      "right": 37.5,
+      "width": 100.0487006412377,
+      "zIndex": 100,
+    }
+  }
+>
+  <Image
+    source={
+      {
+        "testUri": "../../../app/assets/icons/general/plus.png",
+      }
+    }
+    style={
+      [
+        {
+          "resizeMode": "contain",
+        },
+        null,
+        {
+          "height": 50.02435032061885,
+          "width": 50.02435032061885,
+        },
+        undefined,
+      ]
+    }
+  />
+</View>
+`;

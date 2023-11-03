@@ -1,0 +1,140 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TimeLineListItem  TimeLineListItem renders correctly 1`] = `
+<View
+  style={
+    {
+      "alignItems": "center",
+      "flex": 1,
+      "flexDirection": "row",
+      "height": 173.42000000000002,
+      "justifyContent": "space-between",
+      "paddingHorizontal": 15,
+    }
+  }
+>
+  <View
+    style={
+      {
+        "alignItems": "center",
+        "flexDirection": "row",
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "alignItems": "center",
+          "backgroundColor": "#93b2fd",
+          "borderRadius": 81.07922223219569,
+          "height": 81.07922223219569,
+          "justifyContent": "center",
+          "width": 81.07922223219569,
+        }
+      }
+    >
+      <Image
+        source={
+          {
+            "testUri": "../../../app/assets/icons/general/gas.png",
+          }
+        }
+        style={
+          [
+            {
+              "resizeMode": "contain",
+            },
+            {
+              "tintColor": "#ffffff",
+            },
+            {
+              "height": 30.13699392404255,
+              "width": 30.13699392404255,
+            },
+            undefined,
+          ]
+        }
+      />
+    </View>
+    <View
+      style={
+        {
+          "marginLeft": 37.5,
+          "marginTop": 66.7,
+        }
+      }
+    >
+      <Text
+        style={
+          {
+            "color": "#ffffff",
+          }
+        }
+      >
+        Refueling
+      </Text>
+      <Text
+        style={
+          {
+            "color": "#6a6f71",
+            "marginVertical": 13.34,
+          }
+        }
+      />
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "flexDirection": "row",
+            "justifyContent": "center",
+          }
+        }
+      >
+        <View>
+          <Image
+            source={
+              {
+                "testUri": "../../../app/assets/icons/general/meter.png",
+              }
+            }
+            style={
+              [
+                {
+                  "resizeMode": "contain",
+                },
+                {
+                  "tintColor": "#6a6f71",
+                },
+                {
+                  "height": 30.13699392404255,
+                  "width": 30.13699392404255,
+                },
+                undefined,
+              ]
+            }
+          />
+        </View>
+        <Text
+          style={
+            {
+              "color": "#6a6f71",
+              "marginLeft": 15,
+            }
+          }
+        >
+          undefined mi/l
+        </Text>
+      </View>
+    </View>
+  </View>
+  <Text
+    style={
+      {
+        "color": "#ffffff",
+      }
+    }
+  >
+    $ 
+  </Text>
+</View>
+`;

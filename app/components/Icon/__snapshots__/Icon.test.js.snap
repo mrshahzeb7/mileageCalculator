@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Icon  Icon renders correctly 1`] = `
+<View>
+  <Image
+    style={
+      [
+        {
+          "resizeMode": "contain",
+        },
+        null,
+        null,
+        undefined,
+      ]
+    }
+  />
+</View>
+`;

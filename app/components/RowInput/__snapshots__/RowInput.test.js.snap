@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RowInput  RowInput renders correctly 1`] = `
+<View
+  style={
+    [
+      {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "paddingRight": 37.5,
+      },
+      undefined,
+    ]
+  }
+>
+  <View>
+    <Image
+      style={
+        [
+          {
+            "resizeMode": "contain",
+          },
+          {
+            "tintColor": "#93b2fd",
+          },
+          {
+            "height": 50.02435032061885,
+            "width": 50.02435032061885,
+          },
+          {
+            "marginHorizontal": 30.595932917809698,
+          },
+        ]
+      }
+    />
+  </View>
+</View>
+`;

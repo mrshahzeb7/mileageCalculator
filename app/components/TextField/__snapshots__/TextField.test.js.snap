@@ -1,0 +1,54 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TextField  TextField renders correctly 1`] = `
+<View
+  style={
+    [
+      undefined,
+    ]
+  }
+>
+  <View
+    style={
+      [
+        {
+          "alignItems": "center",
+          "borderColor": "#6a6f71",
+          "borderRadius": 15.297966458904849,
+          "borderWidth": 1.334,
+          "flexDirection": "row",
+          "height": 80.03999999999999,
+          "overflow": "hidden",
+        },
+        undefined,
+        undefined,
+        undefined,
+      ]
+    }
+  >
+    <TextInput
+      editable={true}
+      maxLength={30}
+      placeholderTextColor="#6a6f71"
+      style={
+        [
+          {
+            "alignSelf": "stretch",
+            "color": "#ffffff",
+            "flex": 1,
+            "fontSize": 27.53633962602873,
+            "marginHorizontal": 37.5,
+            "paddingHorizontal": 0,
+            "paddingVertical": 0,
+            "textAlignVertical": "center",
+          },
+          undefined,
+          undefined,
+        ]
+      }
+      textAlignVertical="top"
+      underlineColorAndroid="transparent"
+    />
+  </View>
+</View>
+`;
